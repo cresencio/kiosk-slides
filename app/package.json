@@ -2,6 +2,8 @@
   "name": "nw-demo",
   "main": "index.html",
   "window": {
-    "kiosk": true
+    "kiosk": true,
+    "toolbar": false,
+    "fullscreen": true
   }
 }
